@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://andrewquach-dev.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://andrewquach-dev.github.io/task-management-frontend/static/js/main.e26553b7.chunk.js",
+    "main.js.map": "https://andrewquach-dev.github.io/task-management-frontend/static/js/main.e26553b7.chunk.js.map",
+    "runtime~main.js": "https://andrewquach-dev.github.io/task-management-frontend/static/js/runtime~main.e0e50a56.js",
+    "runtime~main.js.map": "https://andrewquach-dev.github.io/task-management-frontend/static/js/runtime~main.e0e50a56.js.map",
+    "static/js/2.c6e309eb.chunk.js": "https://andrewquach-dev.github.io/task-management-frontend/static/js/2.c6e309eb.chunk.js",
+    "static/js/2.c6e309eb.chunk.js.map": "https://andrewquach-dev.github.io/task-management-frontend/static/js/2.c6e309eb.chunk.js.map",
+    "index.html": "https://andrewquach-dev.github.io/task-management-frontend/index.html",
+    "precache-manifest.262035c71fd6f6666d5f26f897ab8786.js": "https://andrewquach-dev.github.io/task-management-frontend/precache-manifest.262035c71fd6f6666d5f26f897ab8786.js",
+    "service-worker.js": "https://andrewquach-dev.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://andrewquach-dev.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+  }
+}
